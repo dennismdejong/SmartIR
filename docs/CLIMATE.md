@@ -928,3 +928,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | -----------------| ---------- |
 | [3300](../codes/climate/3300.json) | DI-A series      | Broadlink  |
+
+#### Vulcano
+| Code                               | Supported Models | Controller |
+| ---------------------------------- | -----------------| ---------- |
+| [4209](../codes/climate/4209.json) | Line-Cool        |    ZHA     |
